@@ -1,0 +1,35 @@
+.viewport-main{
+    height: 34.5vw;
+  
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .main-container{
+    background: #FFFFFF;
+    display: flex;
+    flex-direction: column;
+    width: 65%;
+    padding: 60px 60px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    -webkit-box-shadow: 0px -1px 6px -1px #053225;
+    -moz-box-shadow: 0px -1px 6px -1px #053225;
+    box-shadow: 0px -1px 6px -1px #053225;
+    border-radius: 6px;
+    text-align: center;
+    position: relative;
+    bottom: 20px;
+  }
+  .title-create{
+    position: relative;
+    bottom: 30px;
+    left: 25px;
+  }
+  .icons-create-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+   
+  }
